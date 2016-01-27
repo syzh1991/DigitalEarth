@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/model3d
+END
+Model3DFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/model3d/Model3DFactory.java
+END
+OBJLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/model3d/OBJLoader.java
+END
+MaxConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/model3d/MaxConstants.java
+END
+Model3DLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/model3d/Model3DLayer.java
+END
+WWModel3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/model3d/WWModel3D.java
+END
+Model3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/model3d/Model3D.java
+END
+Model3DPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/model3d/Model3DPanel.java
+END
+Model3DLayerBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/model3d/Model3DLayerBuilder.java
+END
+MaxLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/model3d/MaxLoader.java
+END
+Model3DisplayListFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/model3d/Model3DisplayListFactory.java
+END

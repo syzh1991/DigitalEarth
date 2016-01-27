@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwindx/examples/lineofsight
+END
+PointGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/lineofsight/PointGrid.java
+END
+ExtrudedPolygonIntersection.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/lineofsight/ExtrudedPolygonIntersection.java
+END
+GridOfPoints.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/lineofsight/GridOfPoints.java
+END
+LineIntersector.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/lineofsight/LineIntersector.java
+END
+ShapeLineIntersector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/lineofsight/ShapeLineIntersector.java
+END
+AbstractShapeIntersection.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/lineofsight/AbstractShapeIntersection.java
+END
+LinesOfSight.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/lineofsight/LinesOfSight.java
+END
+PolygonIntersection.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/lineofsight/PolygonIntersection.java
+END
+TerrainLineIntersector.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/lineofsight/TerrainLineIntersector.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwindx/examples/lineofsight/package.html
+END

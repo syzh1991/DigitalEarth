@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/res
+END
+level0.json
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/res/level0.json
+END
+level1.json
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/res/level1.json
+END
+hbase-env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/res/hbase-env.sh
+END
+jaas.conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/res/jaas.conf
+END
+hbase-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DartEarth/!svn/ver/96/trunk/HBaseUtilForCDH/res/hbase-site.xml
+END
+reallevel1.json
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DartEarth/!svn/ver/96/trunk/HBaseUtilForCDH/res/reallevel1.json
+END
+hdfs-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DartEarth/!svn/ver/96/trunk/HBaseUtilForCDH/res/hdfs-site.xml
+END
+core-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DartEarth/!svn/ver/96/trunk/HBaseUtilForCDH/res/core-site.xml
+END
+search-mappings.json
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/res/search-mappings.json
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/res/log4j.properties
+END

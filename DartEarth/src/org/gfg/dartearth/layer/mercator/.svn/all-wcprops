@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/mercator
+END
+BasicMercatorTiledImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/mercator/BasicMercatorTiledImageLayer.java
+END
+MercatorTextureTile.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/mercator/MercatorTextureTile.java
+END
+MercatorSector.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/mercator/MercatorSector.java
+END
+MercatorTiledImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/mercator/MercatorTiledImageLayer.java
+END

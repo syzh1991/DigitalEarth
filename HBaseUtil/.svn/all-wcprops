@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/DartEarth/!svn/ver/71/trunk/HBaseUtilForCDH
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/.project
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/.checkstyle
+END

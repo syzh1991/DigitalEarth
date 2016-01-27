@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/test/org/gfg/geohash/zxb
+END
+GeoHashBoundingBoxSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/test/org/gfg/geohash/zxb/GeoHashBoundingBoxSearchTest.java
+END
+GeoHashCircleQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/test/org/gfg/geohash/zxb/GeoHashCircleQueryTest.java
+END
+WGS84PointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/test/org/gfg/geohash/zxb/WGS84PointTest.java
+END
+BoundingBoxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/test/org/gfg/geohash/zxb/BoundingBoxTest.java
+END
+GeoHashTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/test/org/gfg/geohash/zxb/GeoHashTest.java
+END

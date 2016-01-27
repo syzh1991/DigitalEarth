@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion
+END
+ContentAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/ContentAnnotation.java
+END
+MutimediaAnnotationLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/MutimediaAnnotationLayer.java
+END
+AnnotationLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/AnnotationLayer.java
+END
+ImageContentAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/ImageContentAnnotation.java
+END
+PushPinAnnotationLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/PushPinAnnotationLayer.java
+END
+MutimediaAnnotationVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/MutimediaAnnotationVO.java
+END
+MutimediaAnnotationBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/MutimediaAnnotationBuilder.java
+END
+PushPinAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/PushPinAnnotation.java
+END
+MutimediaAnnotationProperPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/MutimediaAnnotationProperPanel.java
+END
+BubbleAnnotationLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/BubbleAnnotationLayer.java
+END
+BubbleAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/BubbleAnnotation.java
+END
+AudioContentAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/AudioContentAnnotation.java
+END
+PushPinAnnotationBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/PushPinAnnotationBuilder.java
+END
+PushPinAnnotationProperPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/PushPinAnnotationProperPanel.java
+END
+BubbleAnnotationBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/BubbleAnnotationBuilder.java
+END
+BubbleAnnotationProperPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/feature/annotion/BubbleAnnotationProperPanel.java
+END

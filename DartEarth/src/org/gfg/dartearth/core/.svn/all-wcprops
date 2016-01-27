@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DartEarth/!svn/ver/63/trunk/DartEarth/src/org/gfg/dartearth/core
+END
+ApplicationTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/core/ApplicationTemplate.java
+END
+MeasureDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/core/MeasureDialog.java
+END
+LoginFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DartEarth/!svn/ver/95/trunk/DartEarth/src/org/gfg/dartearth/core/LoginFrame.java
+END
+ClickAndGoSelectListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/core/ClickAndGoSelectListener.java
+END
+MetaDataSearchUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/95/trunk/DartEarth/src/org/gfg/dartearth/core/MetaDataSearchUI.java
+END
+DataSourceList.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/59/trunk/DartEarth/src/org/gfg/dartearth/core/DataSourceList.java
+END
+MetaDataCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/92/trunk/DartEarth/src/org/gfg/dartearth/core/MetaDataCellRenderer.java
+END
+DartEarthAppFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/95/trunk/DartEarth/src/org/gfg/dartearth/core/DartEarthAppFrame.java
+END
+AlgorithmLibUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/95/trunk/DartEarth/src/org/gfg/dartearth/core/AlgorithmLibUI.java
+END
+PropertiesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/core/PropertiesDialog.java
+END

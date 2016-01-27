@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/src/org/gfg/geohash
+END
+Base32.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/src/org/gfg/geohash/Base32.java
+END
+DBUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/src/org/gfg/geohash/DBUtil.java
+END
+GeoTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/src/org/gfg/geohash/GeoTool.java
+END
+MainFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/src/org/gfg/geohash/MainFunction.java
+END
+Geohash.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/src/org/gfg/geohash/Geohash.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwindx/examples/shapebuilder
+END
+BoxEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/shapebuilder/BoxEditor.java
+END
+CylinderEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/shapebuilder/CylinderEditor.java
+END
+WedgeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/shapebuilder/WedgeEditor.java
+END
+ExtrudedPolygonBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/shapebuilder/ExtrudedPolygonBuilder.java
+END
+ExtrudedPolygonEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/shapebuilder/ExtrudedPolygonEditor.java
+END
+RigidShapeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/shapebuilder/RigidShapeBuilder.java
+END
+RigidShapeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/shapebuilder/RigidShapeEditor.java
+END
+AbstractShapeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/shapebuilder/AbstractShapeEditor.java
+END
+ConeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/shapebuilder/ConeEditor.java
+END
+PyramidEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/examples/shapebuilder/PyramidEditor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwindx/examples/shapebuilder/package.html
+END

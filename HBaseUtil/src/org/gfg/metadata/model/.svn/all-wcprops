@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/src/org/gfg/metadata/model
+END
+EIndexField.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/src/org/gfg/metadata/model/EIndexField.java
+END
+BasicDBList.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/src/org/gfg/metadata/model/BasicDBList.java
+END
+DBObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/src/org/gfg/metadata/model/DBObject.java
+END
+BasicDBObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/src/org/gfg/metadata/model/BasicDBObject.java
+END
+ESearchField.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/src/org/gfg/metadata/model/ESearchField.java
+END

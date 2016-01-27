@@ -1,0 +1,371 @@
+package org.gfg.dartearth.feature.layerpanel;
+
+import gov.nasa.worldwind.Factory;
+import gov.nasa.worldwind.WorldWind;
+import gov.nasa.worldwind.WorldWindow;
+import gov.nasa.worldwind.avlist.AVKey;
+import gov.nasa.worldwind.avlist.AVList;
+import gov.nasa.worldwind.avlist.AVListImpl;
+import gov.nasa.worldwind.globes.ElevationModel;
+import gov.nasa.worldwind.layers.Layer;
+import gov.nasa.worldwind.layers.LayerList;
+import gov.nasa.worldwind.layers.TerrainProfileLayer;
+import gov.nasa.worldwind.ogc.wms.WMSCapabilities;
+import gov.nasa.worldwind.ogc.wms.WMSLayerCapabilities;
+import gov.nasa.worldwind.ogc.wms.WMSLayerStyle;
+import gov.nasa.worldwind.util.WWUtil;
+import gov.nasa.worldwindx.examples.ApplicationTemplate;
+
+import java.awt.BorderLayout;
+import java.awt.Dimension;
+import java.awt.GridLayout;
+import java.awt.event.ActionEvent;
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Set;
+
+import javax.swing.AbstractAction;
+import javax.swing.BorderFactory;
+import javax.swing.JPanel;
+import javax.swing.JRadioButton;
+import javax.swing.JScrollPane;
+
+import org.gfg.dartearth.core.DartEarthAppFrame;
+import org.gfg.dartearth.feature.rightclickmenu.RightClickMenu;
+import org.gfg.dartearth.feature.rightclickmenu.RightClickMenuItem;
+
+public class LayerPanel extends JPanel {
+	private static final long serialVersionUID = -5440743010287448290L;
+
+	protected JPanel layersPanel;
+	protected JPanel westPanel;
+	protected JScrollPane scrollPane;
+	private WorldWindow wwd;
+	private DartEarthAppFrame frame;
+
+	// protected Font defaultFont;
+
+	/**
+	 * Create a panel with the default size.
+	 * 
+	 * @param wwd
+	 *            WorldWindow to supply the layer list.
+	 */
+	public LayerPanel(WorldWindow wwd, DartEarthAppFrame frame) {
+		// Make a panel at a default size.
+		super(new BorderLayout());
+		this.wwd = wwd;
+		// System.out.println(this.wwd);
+		this.frame = frame;
+		this.makePanel(new Dimension(160, 320));
+
+	}
+
+	/**
+	 * Create a panel with a size.
+	 * 
+	 * @param wwd
+	 *            WorldWindow to supply the layer list.
+	 * @param size
+	 *            Size of the panel.
+	 */
+	public LayerPanel(WorldWindow wwd, Dimension size, DartEarthAppFrame frame) {
+		// Make a panel at a specified size.
+		super(new BorderLayout());
+		this.makePanel(size);
+		this.wwd = wwd;
+		this.frame = frame;
+	}
+
+	protected void makePanel(Dimension size) {
+		// Make and fill the panel holding the layer titles.
+		this.layersPanel = new JPanel(new GridLayout(0, 1, 0, 4));
+		this.layersPanel.setBorder(BorderFactory.createEmptyBorder(5, 5, 5, 5));
+		this.fill();
+
+		// Must put the layer grid in a container to prevent scroll panel from
+		// stretching their vertical spacing.
+		JPanel dummyPanel = new JPanel(new BorderLayout());
+		dummyPanel.add(this.layersPanel, BorderLayout.NORTH);
+
+		// Put the name panel in a scroll bar.
+		this.scrollPane = new JScrollPane(dummyPanel);
+		this.scrollPane.setBorder(BorderFactory.createEmptyBorder(0, 0, 0, 0));
+		if (size != null)
+			this.scrollPane.setPreferredSize(size);
+
+		// Add the scroll bar and name panel to a titled panel that will resize
+		// with the main window.
+		westPanel = new JPanel(new GridLayout(0, 1, 0, 10));
+		westPanel.setToolTipText("Layers to Show");
+		westPanel.add(scrollPane);
+		this.add(westPanel, BorderLayout.CENTER);
+	}
+
+	protected void fill() {
+		// System.out.println(wwd);
+		int i = 0;
+		int n = wwd.getModel().getLayers().size();
+		LayerList layerList = wwd.getModel().getLayers();
+		int index = 0;
+		for (Layer layer : layerList) {
+			System.out.println((++index) + ":" + layer.getName());
+		}
+		for (Layer layer : wwd.getModel().getLayers()) {
+			if (layer instanceof TerrainProfileLayer) {
+				n--;
+			}
+		}
+		for (Layer layer : wwd.getModel().getLayers()) {
+			if (layer instanceof TerrainProfileLayer) {
+				continue;
+			}
+
+			LayerAction action = new LayerAction(layer, wwd, layer.isEnabled());
+			// JCheckBox jcb = new JCheckBox(action);
+			JRadioButton jcb = new JRadioButton(action);
+			jcb.setSelected(action.selected);
+
+			List<RightClickMenuItem> items = LayerPanelMenuFactory
+					.createRightClickMenuItems(layer, wwd, this, frame, i, n);
+			RightClickMenu.bindRightClickMenu(jcb, items);
+			this.layersPanel.add(jcb);
+			i++;
+		}
+		// ///////////////////////////////////////////////////
+		// ///////////////add the wms service////////////////
+		//TODO :AAAAAAAA
+			//String server = "http://192.168.1.36:6080/arcgis/services/chinaMap/MapServer/WMSServer";
+		String server = "http://192.168.7.180:6080/arcgis/services/ArcgisWMS/ImageServer/WMSServer";
+		List<LayerInfo> layerInfoList = new ArrayList<LayerInfo>();
+
+		URI serverURI = null;
+		try {
+			serverURI = new URI(server.trim());
+		} catch (URISyntaxException e1) {
+			e1.printStackTrace();
+		}
+		WMSCapabilities caps;
+
+		try {
+			caps = WMSCapabilities.retrieve(serverURI);
+			caps.parse();
+		} catch (Exception e) {
+			e.printStackTrace();
+			return;
+		}
+
+		// Gather up all the named layers and make a world wind layer for each.
+
+		final List<WMSLayerCapabilities> namedLayerCaps = caps.getNamedLayers();
+		if (namedLayerCaps == null)
+			return;
+
+		try {
+			for (WMSLayerCapabilities lc : namedLayerCaps) {
+				Set<WMSLayerStyle> styles = lc.getStyles();
+				 if (styles == null || styles.size() == 0)
+	                {
+	                    LayerInfo layerInfo = createLayerInfo(caps, lc, null);
+	                    layerInfoList.add(layerInfo);
+	                }else{
+	                	for (WMSLayerStyle style : styles) {
+	    					LayerInfo layerInfo = createLayerInfo(caps, lc, style);
+	    					layerInfoList.add(layerInfo);
+	    				}
+	                }
+				
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+			return;
+		}
+		for (LayerInfo layerInfo : layerInfoList) {
+			Object component = createComponent(layerInfo.caps, layerInfo.params);
+			 updateComponent(component, true);
+		}
+		 wwd.redraw();
+		// /////////////////////////////////////////////////////////////////////
+		
+		// System.out.println(i+":"+n);
+	}
+	 protected void updateComponent(Object component, boolean enable)
+	    {
+	        if (component instanceof Layer)
+	        {
+	            Layer layer = (Layer) component;
+	            LayerList layers = this.wwd.getModel().getLayers();
+	            layer.setEnabled(enable);
+	            if (enable)
+	            {
+	                if (!layers.contains(layer))
+	                {
+	                    ApplicationTemplate.insertBeforeLayerName(this.wwd, layer, this.wwd.getModel().getLayers().get(4).getName());
+	                    this.firePropertyChange("LayersPanelUpdated", null, layer);
+	                }
+	            }
+	            else
+	            {
+	                layers.remove(layer);
+	                this.firePropertyChange("LayersPanelUpdated", layer, null);
+	            }
+	        }
+	        else if (component instanceof ElevationModel)
+	        {
+	            //
+	        }
+	    }
+	protected static class LayerInfo {
+		protected WMSCapabilities caps;
+		protected AVListImpl params = new AVListImpl();
+
+		protected String getTitle() {
+			return params.getStringValue(AVKey.DISPLAY_NAME);
+		}
+
+		protected String getName() {
+			return params.getStringValue(AVKey.LAYER_NAMES);
+		}
+
+		protected String getAbstract() {
+			return params.getStringValue(AVKey.LAYER_ABSTRACT);
+		}
+	}
+
+	protected LayerInfo createLayerInfo(WMSCapabilities caps,
+			WMSLayerCapabilities layerCaps, WMSLayerStyle style) {
+		// Create the layer info specified by the layer's capabilities entry and
+		// the selected style.
+
+		LayerInfo linfo = new LayerInfo();
+		linfo.caps = caps;
+		linfo.params = new AVListImpl();
+		linfo.params.setValue(AVKey.LAYER_NAMES, layerCaps.getName());
+		if (style != null)
+			linfo.params.setValue(AVKey.STYLE_NAMES, style.getName());
+		String abs = layerCaps.getLayerAbstract();
+		if (!WWUtil.isEmpty(abs))
+			linfo.params.setValue(AVKey.LAYER_ABSTRACT, abs);
+
+		linfo.params.setValue(AVKey.DISPLAY_NAME, makeTitle(caps, linfo));
+
+		return linfo;
+	}
+
+	protected static String makeTitle(WMSCapabilities caps, LayerInfo layerInfo) {
+		String layerNames = layerInfo.params.getStringValue(AVKey.LAYER_NAMES);
+		String styleNames = layerInfo.params.getStringValue(AVKey.STYLE_NAMES);
+		String[] lNames = layerNames.split(",");
+		String[] sNames = styleNames != null ? styleNames.split(",") : null;
+
+		StringBuilder sb = new StringBuilder();
+		for (int i = 0; i < lNames.length; i++) {
+			if (sb.length() > 0)
+				sb.append(", ");
+
+			String layerName = lNames[i];
+			WMSLayerCapabilities lc = caps.getLayerByName(layerName);
+			String layerTitle = lc.getTitle();
+			sb.append(layerTitle != null ? layerTitle : layerName);
+
+			if (sNames == null || sNames.length <= i)
+				continue;
+
+			String styleName = sNames[i];
+			WMSLayerStyle style = lc.getStyleByName(styleName);
+			if (style == null)
+				continue;
+
+			sb.append(" : ");
+			String styleTitle = style.getTitle();
+			sb.append(styleTitle != null ? styleTitle : styleName);
+		}
+
+		return sb.toString();
+	}
+
+	protected static Object createComponent(WMSCapabilities caps, AVList params) {
+		AVList configParams = params.copy(); // Copy to insulate changes from
+												// the caller.
+
+		// Some wms servers are slow, so increase the timeouts and limits used
+		// by world wind's retrievers.
+		configParams.setValue(AVKey.URL_CONNECT_TIMEOUT, 30000);
+		configParams.setValue(AVKey.URL_READ_TIMEOUT, 30000);
+		configParams.setValue(AVKey.RETRIEVAL_QUEUE_STALE_REQUEST_LIMIT, 60000);
+
+		try {
+			String factoryKey = getFactoryKeyForCapabilities(caps);
+			Factory factory = (Factory) WorldWind
+					.createConfigurationComponent(factoryKey);
+			return factory.createFromConfigSource(caps, configParams);
+		} catch (Exception e) {
+			// Ignore the exception, and just return null.
+		}
+
+		return null;
+	}
+
+	protected static String getFactoryKeyForCapabilities(WMSCapabilities caps) {
+		boolean hasApplicationBilFormat = false;
+
+		Set<String> formats = caps.getImageFormats();
+		for (String s : formats) {
+			if (s.contains("application/bil")) {
+				hasApplicationBilFormat = true;
+				break;
+			}
+		}
+
+		return hasApplicationBilFormat ? AVKey.ELEVATION_MODEL_FACTORY
+				: AVKey.LAYER_FACTORY;
+	}
+
+	/**
+	 * Update the panel to match the layer list active in a WorldWindow.
+	 * 
+	 * @param wwd
+	 *            WorldWindow that will supply the new layer list.
+	 */
+	public void update() {
+		// Replace all the layer names in the layers panel with the names of the
+		// current layers.
+		this.layersPanel.removeAll();
+		this.fill();
+		this.westPanel.revalidate();
+		this.westPanel.repaint();
+	}
+
+	@Override
+	public void setToolTipText(String string) {
+		this.scrollPane.setToolTipText(string);
+	}
+
+	protected static class LayerAction extends AbstractAction {
+		private static final long serialVersionUID = -2357261678993191484L;
+
+		WorldWindow wwd;
+		private Layer layer;
+		private boolean selected;
+
+		public LayerAction(Layer layer, WorldWindow wwd, boolean selected) {
+			super(layer.getName());
+			this.wwd = wwd;
+			this.layer = layer;
+			this.selected = selected;
+			this.layer.setEnabled(this.selected);
+		}
+
+		public void actionPerformed(ActionEvent actionEvent) {
+			// Simply enable or disable the layer based on its toggle button.
+			if (((JRadioButton) actionEvent.getSource()).isSelected())
+				this.layer.setEnabled(true);
+			else
+				this.layer.setEnabled(false);
+
+			wwd.redraw();
+		}
+	}
+}

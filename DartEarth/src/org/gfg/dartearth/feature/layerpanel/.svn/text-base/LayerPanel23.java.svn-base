@@ -1,0 +1,204 @@
+package org.gfg.dartearth.feature.layerpanel;
+
+import gov.nasa.worldwind.WorldWindow;
+import gov.nasa.worldwind.layers.Layer;
+import gov.nasa.worldwind.layers.LayerList;
+import gov.nasa.worldwind.layers.TerrainProfileLayer;
+
+import java.awt.BorderLayout;
+import java.awt.Dimension;
+import java.awt.FlowLayout;
+import java.awt.GridLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ItemEvent;
+import java.awt.event.ItemListener;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
+import javax.swing.AbstractAction;
+import javax.swing.BorderFactory;
+import javax.swing.BoxLayout;
+import javax.swing.ButtonGroup;
+import javax.swing.JComboBox;
+import javax.swing.JPanel;
+import javax.swing.JRadioButton;
+import javax.swing.JScrollPane;
+
+import org.gfg.dartearth.core.DartEarthAppFrame;
+
+public class LayerPanel2 extends JPanel {
+	private static final long serialVersionUID = -5440743010287448290L;
+
+	protected JPanel layersPanel;
+	protected JPanel southPanel;
+	protected JScrollPane scrollPane;
+	private WorldWindow wwd;
+	private DartEarthAppFrame frame;
+	private JPanel buttonGroupPanel;
+	private ButtonGroup buttonGroup;
+	private JRadioButton lastClick ;
+	// protected Font defaultFont;
+
+	/**
+	 * Create a panel with the default size.
+	 * 
+	 * @param wwd
+	 *            WorldWindow to supply the layer list.
+	 */
+	public LayerPanel2(WorldWindow wwd, DartEarthAppFrame frame) {
+		// Make a panel at a default size.
+		this.wwd = wwd;
+		// System.out.println(this.wwd);
+		this.frame = frame;
+		this.makePanel();
+
+	}
+
+	/**
+	 * Create a panel with a size.
+	 * 
+	 * @param wwd
+	 *            WorldWindow to supply the layer list.
+	 * @param size
+	 *            Size of the panel.
+	 */
+
+	protected void makePanel() {
+		// Make and fill the panel holding the layer titles.
+		this.layersPanel = new JPanel();
+		this.layersPanel.setLayout(new BoxLayout(layersPanel, BoxLayout.Y_AXIS));
+		this.fill();
+		this.add(layersPanel);
+	}
+
+	protected void fill() {
+		LayerList layerList = wwd.getModel().getLayers();
+		final Map<String, List<String>> layerMap = new HashMap<String, List<String>>();
+		final Map<String, Layer> showLayer = new HashMap<String, Layer>();
+		for (Layer layer : layerList) {
+			if (layer instanceof TerrainProfileLayer) {
+				continue;
+			}
+			String layerName = layer.getName();
+
+			if (layerName.matches("\\w*_\\w*-\\w*")) {
+				showLayer.put(layerName, layer);
+				String key = layerName.substring(0, layerName.lastIndexOf('_'));
+				String value = layerName
+						.substring(layerName.lastIndexOf('_') + 1);
+				List<String> valueList;
+				if (layerMap.get(key) == null) {
+					valueList = new ArrayList<String>();
+				} else {
+					valueList = layerMap.get(key);
+				}
+				valueList.add(value);
+				layerMap.put(key, valueList);
+			}
+		}
+		Set<String> keySet = layerMap.keySet();
+		String[] listData = new String[keySet.size()];
+		int cnt = 0;
+		for (String s : keySet) {
+			listData[cnt++] = s;
+		}
+
+		JComboBox<?> keyList = new JComboBox<Object>(listData);
+		this.buttonGroupPanel = new JPanel();
+		// ///使用jcombobox 加上radiobutton group
+		
+		// ///////////list的事件/////////////////////////////////
+		ItemListener aListener = new ItemListener() {
+			@Override
+			public void itemStateChanged(ItemEvent e) {
+				layersPanel.remove(buttonGroupPanel);
+				buttonGroupPanel = new JPanel();
+			//	buttonGroup = new ButtonGroup();
+				JComboBox<?> soucre = (JComboBox<?>) e.getSource();
+				String stateKey = soucre.getSelectedItem().toString().trim();
+				List<String> dateList = layerMap.get(stateKey);
+				for (String date : dateList) {
+					String key = stateKey + "_" + date;
+					Layer layer = showLayer.get(key);
+					LayerAction action = new LayerAction(layer, wwd,
+							layer.isEnabled());
+					JRadioButton dateRadioButton = new JRadioButton(date);
+					dateRadioButton.addActionListener(action);
+					buttonGroupPanel.add(dateRadioButton);
+				//	buttonGroup.add(dateRadioButton);
+				}
+				layersPanel.add(buttonGroupPanel);
+				layersPanel.updateUI();
+			}
+		};
+		
+		keyList.addItemListener(aListener);
+		List<String> firstDateList = layerMap.get(keyList.getSelectedItem().toString().trim());
+		//this.buttonGroup = new ButtonGroup();
+		buttonGroupPanel = new JPanel();
+		for(String date:firstDateList){
+			String key = keyList.getSelectedItem().toString().trim() + "_" + date;
+			Layer layer = showLayer.get(key);
+			LayerAction action = new LayerAction(layer, wwd,layer.isEnabled());
+			JRadioButton dateRadioButton = new JRadioButton(date);
+			dateRadioButton.addActionListener(action);
+			buttonGroupPanel.add(dateRadioButton);
+		//	buttonGroup.add(dateRadioButton);
+		}
+		this.layersPanel.add(keyList);
+		this.layersPanel.add(buttonGroupPanel);
+		// //////////////////////////////////////////
+		// System.out.println(i+":"+n);
+	}
+
+	/**
+	 * Update the panel to match the layer list active in a WorldWindow.
+	 * 
+	 * @param wwd
+	 *            WorldWindow that will supply the new layer list.
+	 */
+	public void update() {
+		// Replace all the layer names in the layers panel with the names of the
+		// current layers.
+		this.layersPanel.removeAll();
+		this.fill();
+		this.southPanel.revalidate();
+		this.southPanel.repaint();
+	}
+
+	@Override
+	public void setToolTipText(String string) {
+		this.scrollPane.setToolTipText(string);
+	}
+
+	protected static class LayerAction extends AbstractAction {
+		/**
+		 * 
+		 */
+		private static final long serialVersionUID = -2357261678993191484L;
+
+		WorldWindow wwd;
+		private Layer layer;
+		private boolean selected;
+
+		public LayerAction(Layer layer, WorldWindow wwd, boolean selected) {
+			super(layer.getName());
+			this.wwd = wwd;
+			this.layer = layer;
+			this.selected = selected;
+			this.layer.setEnabled(this.selected);
+		}
+
+		public void actionPerformed(ActionEvent actionEvent) {
+			// Simply enable or disable the layer based on its toggle button.
+			if (((JRadioButton) actionEvent.getSource()).isSelected())
+				this.layer.setEnabled(true);
+			else
+				this.layer.setEnabled(false);
+			wwd.redraw();
+		}
+	}
+}

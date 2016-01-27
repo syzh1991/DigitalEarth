@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch
+END
+antlr-runtime-3.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/antlr-runtime-3.5.jar
+END
+jna-4.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/jna-4.1.0.jar
+END
+mongo-java-driver-2.12.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/mongo-java-driver-2.12.1.jar
+END
+lucene-core-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-core-4.9.1.jar
+END
+sigar-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/sigar-1.6.4.jar
+END
+lucene-grouping-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-grouping-4.9.1.jar
+END
+elasticsearch-1.3.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/elasticsearch-1.3.4.jar
+END
+lucene-misc-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-misc-4.9.1.jar
+END
+lucene-spatial-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-spatial-4.9.1.jar
+END
+mina-core-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/mina-core-2.0.8.jar
+END
+lucene-analyzers-common-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-analyzers-common-4.9.1.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/dom4j-1.6.1.jar
+END
+lucene-highlighter-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-highlighter-4.9.1.jar
+END
+lucene-sandbox-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-sandbox-4.9.1.jar
+END
+lucene-join-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-join-4.9.1.jar
+END
+lucene-codecs-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-codecs-4.9.1.jar
+END
+jts-1.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/jts-1.13.jar
+END
+asm-4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/asm-4.1.jar
+END
+lucene-memory-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-memory-4.9.1.jar
+END
+asm-commons-4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/asm-commons-4.1.jar
+END
+spatial4j-0.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/spatial4j-0.4.1.jar
+END
+groovy-all-2.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/groovy-all-2.3.2.jar
+END
+slf4j-api-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/slf4j-api-1.6.2.jar
+END
+lucene-queries-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-queries-4.9.1.jar
+END
+json.org.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/json.org.jar
+END
+lucene-suggest-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-suggest-4.9.1.jar
+END
+lucene-expressions-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-expressions-4.9.1.jar
+END
+lucene-queryparser-4.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/lucene-queryparser-4.9.1.jar
+END
+log4j-1.2.17.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DartEarth/!svn/ver/73/trunk/HBaseUtilForCDH/lib/elasticsearch/log4j-1.2.17.jar
+END

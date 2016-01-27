@@ -1,0 +1,114 @@
+{
+    "search": {
+        "properties": {
+            "avgCloudCover": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "dataLowerLeftLat": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "dataLowerLeftLong": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "dataLowerRightLat": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "dataLowerRightLong": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "nresval": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "productID": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "dataUpperLeftLat": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "dataUpperLeftLong": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "dataUpperRightLat": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "dataUpperRightLong": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "gps": {
+                "type": "geo_point",
+                "index": "not_analyzed"
+            },
+            "maxLat": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "maxLng": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "minLat": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "minLng": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "productDate": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "satPath": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "productLevel": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "satRow": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "satelliteName": {
+                "type": "string",
+                "index": "not_analyzed"
+            },
+            "sceneCenterLat": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "sceneCenterLong": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "sceneID": {
+                "type": "long",
+                "index": "not_analyzed"
+            },
+            "scenePath": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "sceneRow": {
+                "type": "double",
+                "index": "not_analyzed"
+            },
+            "sensor": {
+                "type": "string",
+                "index": "not_analyzed"
+            }
+        }
+    }
+}

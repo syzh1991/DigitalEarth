@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/movablemodel3d
+END
+Model3DAnimatorLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/movablemodel3d/Model3DAnimatorLayer.java
+END
+Model3DAnimatorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/movablemodel3d/Model3DAnimatorController.java
+END
+Model3DAnimatorLayerBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/movablemodel3d/Model3DAnimatorLayerBuilder.java
+END
+Model3DAnimatorProperPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/movablemodel3d/Model3DAnimatorProperPanel.java
+END
+Model3DTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/movablemodel3d/Model3DTrack.java
+END
+BasicModel3DTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/org/gfg/dartearth/layer/movablemodel3d/BasicModel3DTrack.java
+END

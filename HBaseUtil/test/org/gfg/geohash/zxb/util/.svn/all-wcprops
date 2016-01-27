@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/test/org/gfg/geohash/zxb/util
+END
+GeoHashSizeTableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/test/org/gfg/geohash/zxb/util/GeoHashSizeTableTest.java
+END
+BoundingBoxSamplerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/test/org/gfg/geohash/zxb/util/BoundingBoxSamplerTest.java
+END
+BoundingBoxGeoHashIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/test/org/gfg/geohash/zxb/util/BoundingBoxGeoHashIteratorTest.java
+END
+RandomGeohashes.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/test/org/gfg/geohash/zxb/util/RandomGeohashes.java
+END
+LongUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/79/trunk/HBaseUtilForCDH/test/org/gfg/geohash/zxb/util/LongUtilTest.java
+END
