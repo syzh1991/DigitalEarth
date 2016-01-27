@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces
+END
+BasicAirspaceAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/BasicAirspaceAttributes.java
+END
+Cake.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/Cake.java
+END
+PartialCappedCylinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/PartialCappedCylinder.java
+END
+Curtain.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/Curtain.java
+END
+PolyArc.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/PolyArc.java
+END
+AbstractAirspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/AbstractAirspace.java
+END
+TrackAirspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/TrackAirspace.java
+END
+AirspaceRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/AirspaceRenderer.java
+END
+Orbit.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/Orbit.java
+END
+ScreenSizeDetailLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/ScreenSizeDetailLevel.java
+END
+CappedCylinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/CappedCylinder.java
+END
+Polygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/Polygon.java
+END
+Airspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/Airspace.java
+END
+Box.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/Box.java
+END
+DetailLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/DetailLevel.java
+END
+Geometry.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/Geometry.java
+END
+Route.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/Route.java
+END
+AirspaceAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/AirspaceAttributes.java
+END
+SphereAirspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/airspaces/SphereAirspace.java
+END

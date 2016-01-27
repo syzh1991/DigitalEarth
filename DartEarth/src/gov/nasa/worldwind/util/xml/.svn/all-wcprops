@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwind/util/xml
+END
+AbstractXMLEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/AbstractXMLEventParser.java
+END
+StringXMLEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/StringXMLEventParser.java
+END
+DoubleXMLEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/DoubleXMLEventParser.java
+END
+XMLEventParserContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/XMLEventParserContextFactory.java
+END
+BooleanXMLEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/BooleanXMLEventParser.java
+END
+XMLEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/XMLEventParser.java
+END
+StringSetXMLEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/StringSetXMLEventParser.java
+END
+XMLEventParserContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/XMLEventParserContext.java
+END
+XMLParserNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/XMLParserNotification.java
+END
+AngleXMLEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/AngleXMLEventParser.java
+END
+BasicXMLEventParserContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/BasicXMLEventParserContext.java
+END
+XMLParserNotificationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/XMLParserNotificationListener.java
+END
+UnrecognizedXMLEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/UnrecognizedXMLEventParser.java
+END
+IntegerXMLEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/IntegerXMLEventParser.java
+END
+BooleanIntegerXMLEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/xml/BooleanIntegerXMLEventParser.java
+END

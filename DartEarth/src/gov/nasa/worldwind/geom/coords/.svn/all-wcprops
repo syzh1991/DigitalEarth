@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/geom/coords
+END
+MGRSCoord.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/geom/coords/MGRSCoord.java
+END
+TMCoordConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/geom/coords/TMCoordConverter.java
+END
+DatumTransformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/geom/coords/DatumTransformation.java
+END
+UTMCoordConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/geom/coords/UTMCoordConverter.java
+END
+UPSCoordConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/geom/coords/UPSCoordConverter.java
+END
+MGRSCoordConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/geom/coords/MGRSCoordConverter.java
+END
+TMCoord.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/geom/coords/TMCoord.java
+END
+PolarCoordConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/geom/coords/PolarCoordConverter.java
+END
+UTMCoord.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/geom/coords/UTMCoord.java
+END
+UPSCoord.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/geom/coords/UPSCoord.java
+END

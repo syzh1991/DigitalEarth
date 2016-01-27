@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf
+END
+GeoSymStyleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/GeoSymStyleProvider.java
+END
+GeoSymConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/GeoSymConstants.java
+END
+GeoSymSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/GeoSymSupport.java
+END
+VPFBasicFeatureFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFBasicFeatureFactory.java
+END
+NIMAUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/NIMAUtils.java
+END
+VPFPrimitiveDataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFPrimitiveDataFactory.java
+END
+VPFBasicDataBufferFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFBasicDataBufferFactory.java
+END
+VPFFeatureType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFFeatureType.java
+END
+VPFSymbolComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFSymbolComparator.java
+END
+VPFSymbolFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFSymbolFactory.java
+END
+VPFTile.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFTile.java
+END
+GeoSymTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/GeoSymTable.java
+END
+VPFSymbolSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFSymbolSupport.java
+END
+VPFLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFLibrary.java
+END
+VPFDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFDatabase.java
+END
+VPFSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFSymbol.java
+END
+NIMAConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/NIMAConstants.java
+END
+VPFDatabaseFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFDatabaseFilter.java
+END
+VPFBasicFeatureClassFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFBasicFeatureClassFactory.java
+END
+VPFBufferedRecordData.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFBufferedRecordData.java
+END
+VPFCoveragePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFCoveragePanel.java
+END
+VPFDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFDataType.java
+END
+VPFSymbolAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFSymbolAttributes.java
+END
+VPFLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFLayer.java
+END
+VPFRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFRelation.java
+END
+VPFRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFRecord.java
+END
+VPFFeatureFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFFeatureFactory.java
+END
+GeoSymAbbreviationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/GeoSymAbbreviationProvider.java
+END
+VPFLegendSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFLegendSupport.java
+END
+GeoSymAttributeExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/GeoSymAttributeExpression.java
+END
+VPFFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFFeature.java
+END
+VPFDataBufferFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFDataBufferFactory.java
+END
+VPFCoverage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFCoverage.java
+END
+VPFBasicPrimitiveDataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFBasicPrimitiveDataFactory.java
+END
+VPFBasicSymbolFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFBasicSymbolFactory.java
+END
+VPFWingedEdgeTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFWingedEdgeTraverser.java
+END
+VPFUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFUtils.java
+END
+VPFTripletId.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFTripletId.java
+END
+VPFSurfaceLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFSurfaceLine.java
+END
+VPFPrimitiveData.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFPrimitiveData.java
+END
+VPFFeatureClassSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFFeatureClassSchema.java
+END
+GeoSymAttributeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/GeoSymAttributeConverter.java
+END
+VPFDataBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFDataBuffer.java
+END
+GeoSymColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/GeoSymColumn.java
+END
+GeoSymAttributeExpressionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/GeoSymAttributeExpressionProvider.java
+END
+GeoSymTableHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/GeoSymTableHeader.java
+END
+VPFFeatureClassFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFFeatureClassFactory.java
+END
+VPFFeatureTableFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFFeatureTableFilter.java
+END
+VPFTableReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFTableReader.java
+END
+VPFConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFConstants.java
+END
+VPFBoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFBoundingBox.java
+END
+VPFSymbolKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFSymbolKey.java
+END
+GeoSymAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/GeoSymAssignment.java
+END
+VPFFeatureClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFFeatureClass.java
+END
+VPFSurfaceArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/VPFSurfaceArea.java
+END
+GeoSymTableReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/vpf/GeoSymTableReader.java
+END

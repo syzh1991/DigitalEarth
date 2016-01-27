@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nmea
+END
+NmeaTrackPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nmea/NmeaTrackPoint.java
+END
+NmeaReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nmea/NmeaReader.java
+END
+NmeaWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nmea/NmeaWriter.java
+END

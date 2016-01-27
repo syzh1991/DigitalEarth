@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwind
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/Model.java
+END
+WorldWindowImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/WorldWindowImpl.java
+END
+SceneController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/SceneController.java
+END
+Restorable.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/Restorable.java
+END
+BasicModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/BasicModel.java
+END
+BasicSceneController.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/BasicSceneController.java
+END
+WorldWindowGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/WorldWindowGLDrawable.java
+END
+Exportable.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/Exportable.java
+END
+WWObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/WWObjectImpl.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/Configuration.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/Factory.java
+END
+BasicFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/BasicFactory.java
+END
+WorldWind.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/WorldWind.java
+END
+View.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/View.java
+END
+StereoOptionSceneController.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/StereoOptionSceneController.java
+END
+WorldWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/WorldWindow.java
+END
+StereoSceneController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/StereoSceneController.java
+END
+WWObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/WWObject.java
+END
+Disposable.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/Disposable.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/Version.java
+END
+Movable.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/Movable.java
+END
+AbstractSceneController.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/33/trunk/DartEarth/src/gov/nasa/worldwind/AbstractSceneController.java
+END
+Locatable.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/Locatable.java
+END
+WorldWindowGLAutoDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/WorldWindowGLAutoDrawable.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/wizard
+END
+WizardPanelDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/wizard/WizardPanelDescriptor.java
+END
+Wizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/wizard/Wizard.java
+END
+WizardModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/wizard/WizardModel.java
+END
+DefaultPanelDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/wizard/DefaultPanelDescriptor.java
+END
+WizardController.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/wizard/WizardController.java
+END
+WizardProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/util/wizard/WizardProperties.java
+END

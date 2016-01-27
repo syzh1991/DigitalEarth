@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/globes
+END
+FlatGlobe.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/globes/FlatGlobe.java
+END
+GlobeStateKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/globes/GlobeStateKey.java
+END
+Earth.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/globes/Earth.java
+END
+ElevationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/globes/ElevationModel.java
+END
+Globe.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/globes/Globe.java
+END
+EarthFlat.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/globes/EarthFlat.java
+END
+EllipsoidalGlobe.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/globes/EllipsoidalGlobe.java
+END

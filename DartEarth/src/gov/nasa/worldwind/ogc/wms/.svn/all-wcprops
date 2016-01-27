@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wms
+END
+WMSCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wms/WMSCapabilities.java
+END
+WMSAuthorityURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wms/WMSAuthorityURL.java
+END
+WMSLayerInfoURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wms/WMSLayerInfoURL.java
+END
+WMSLayerStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wms/WMSLayerStyle.java
+END
+WMSLayerIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wms/WMSLayerIdentifier.java
+END
+WMSLayerAttribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wms/WMSLayerAttribution.java
+END
+WMSLayerDimension.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wms/WMSLayerDimension.java
+END
+WMSLogoURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wms/WMSLogoURL.java
+END
+WMSLayerExtent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wms/WMSLayerExtent.java
+END
+WMSLayerCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wms/WMSLayerCapabilities.java
+END
+WMSServiceInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wms/WMSServiceInformation.java
+END
+WMSCapabilityInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wms/WMSCapabilityInformation.java
+END

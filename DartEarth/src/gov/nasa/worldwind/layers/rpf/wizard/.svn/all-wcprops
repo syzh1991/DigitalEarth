@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard
+END
+FileChooserPanelDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard/FileChooserPanelDescriptor.java
+END
+FileChooserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard/FileChooserPanel.java
+END
+TimeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard/TimeFormatter.java
+END
+RPFImportWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard/RPFImportWizard.java
+END
+ETRCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard/ETRCalculator.java
+END
+FileSearchPanelDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard/FileSearchPanelDescriptor.java
+END
+PreprocessPanelDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard/PreprocessPanelDescriptor.java
+END
+ProgressPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard/ProgressPanel.java
+END
+RPFWizardUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard/RPFWizardUtil.java
+END
+DataChooserPanelDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard/DataChooserPanelDescriptor.java
+END
+FileSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard/FileSet.java
+END
+DataChooserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard/DataChooserPanel.java
+END
+SizeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/rpf/wizard/SizeFormatter.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/markers
+END
+Marker.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/markers/Marker.java
+END
+MarkerShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/markers/MarkerShape.java
+END
+BasicMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/markers/BasicMarker.java
+END
+BasicMarkerShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/markers/BasicMarkerShape.java
+END
+MarkerAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/markers/MarkerAttributes.java
+END
+MarkerRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/markers/MarkerRenderer.java
+END
+BasicMarkerAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/render/markers/BasicMarkerAttributes.java
+END

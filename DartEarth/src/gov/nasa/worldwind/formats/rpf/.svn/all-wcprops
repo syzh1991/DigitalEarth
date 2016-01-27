@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf
+END
+RPFUserDefinedHeaderSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFUserDefinedHeaderSegment.java
+END
+RPFFrameFilename.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFFrameFilename.java
+END
+RPFLocationSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFLocationSection.java
+END
+RPFFrameProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFFrameProperty.java
+END
+RPFCrawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFCrawler.java
+END
+RPFNonpolarFrameTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFNonpolarFrameTransform.java
+END
+RPFFrameFileComponents.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFFrameFileComponents.java
+END
+Base34Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/Base34Converter.java
+END
+RPFFrameFileIndexSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFFrameFileIndexSection.java
+END
+RPFPolarFrameStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFPolarFrameStructure.java
+END
+RPFFrameStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFFrameStructure.java
+END
+RPFZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFZone.java
+END
+RPFColorMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFColorMap.java
+END
+RPFHeaderSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFHeaderSection.java
+END
+RPFBoundingRectangleSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFBoundingRectangleSection.java
+END
+RPFFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFFile.java
+END
+RPFImageFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFImageFile.java
+END
+RPFProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFProducer.java
+END
+RPFFrameFilenameFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFFrameFilenameFormatException.java
+END
+RPFDataSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFDataSeries.java
+END
+RPFImageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFImageType.java
+END
+RPFNonpolarFrameStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFNonpolarFrameStructure.java
+END
+RPFPolarFrameTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFPolarFrameTransform.java
+END
+RPFFileComponents.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFFileComponents.java
+END
+RPFTOCFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFTOCFile.java
+END
+RPFFrameTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/rpf/RPFFrameTransform.java
+END

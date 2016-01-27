@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs
+END
+NITFSExtendedHeaderSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSExtendedHeaderSegment.java
+END
+NITFSReservedExtensionSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSReservedExtensionSegment.java
+END
+NITFSSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSSegment.java
+END
+NITFSRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSRuntimeException.java
+END
+NITFSLabelSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSLabelSegment.java
+END
+NITFSSegmentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSSegmentType.java
+END
+NITFSImageSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSImageSegment.java
+END
+NITFSTextSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSTextSegment.java
+END
+NITFSImageBand.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSImageBand.java
+END
+NITFSUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSUtil.java
+END
+UserDefinedImageSubheader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/UserDefinedImageSubheader.java
+END
+NITFSMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSMessage.java
+END
+CompressionLookupRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/CompressionLookupRecord.java
+END
+NITFSSymbolSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSSymbolSegment.java
+END
+NITFSFileHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSFileHeader.java
+END
+NITFSUserDefinedHeaderSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSUserDefinedHeaderSegment.java
+END
+NITFSDataExtensionSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/nitfs/NITFSDataExtensionSegment.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/config
+END
+DataFileStore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/config/DataFileStore.xml
+END
+worldwind.layers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DartEarth/!svn/ver/95/trunk/DartEarth/src/config/worldwind.layers.xml
+END
+SRTM30Plus_ExtremeElevations_5.bil
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/config/SRTM30Plus_ExtremeElevations_5.bil
+END
+worldwind.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/config/worldwind.xml
+END
+Hipparcos_Stars_Mag6x5044.dat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/config/Hipparcos_Stars_Mag6x5044.dat
+END
+worldwind.layers.out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DartEarth/!svn/ver/80/trunk/DartEarth/src/config/worldwind.layers.out.xml
+END
+Hipparcos_Stars_Mag6x5044.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/config/Hipparcos_Stars_Mag6x5044.tsv
+END
+WMSLayerTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/config/WMSLayerTemplate.xml
+END

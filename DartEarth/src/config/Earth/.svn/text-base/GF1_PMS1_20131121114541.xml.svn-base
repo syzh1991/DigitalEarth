@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Layer layerType="TiledImageLayer" version="1">
+    <DisplayName>GF1_PMS1_20131121114541</DisplayName>
+    <DatasetName>GF1_PMS1_20131121114541</DatasetName>
+        <DataCacheName>Earth/GF1_PMS1_20131121114541</DataCacheName>
+	<Service serviceName="OGC:WMS" version="1.3">
+		<LayerNames>GF1_PMS1_20131121114541</LayerNames>
+		<GetMapURL>http://192.168.0.193:8000/wms</GetMapURL>
+		<GetCapabilitiesURL>http://192.168.0.193:8000/wms</GetCapabilitiesURL>
+	</Service>
+    <FormatSuffix>.jpg</FormatSuffix>
+    <NumLevels count="5" numEmpty="0"/>
+    <Sector>
+        <SouthWest>
+          <LatLon latitude="29.49850000" longitude="76.53290000" units="degrees"/>
+        </SouthWest>
+        <NorthEast>
+          <LatLon latitude="29.88469999" longitude="76.97510000" units="degrees"/>
+        </NorthEast>
+    </Sector>
+    <TileOrigin>
+        <LatLon latitude="-90.0" longitude="-180.0" units="degrees"/>
+    </TileOrigin>
+    <TileSize>
+        <Dimension height="512" width="512"/>
+    </TileSize>
+    <LevelZeroTileDelta>
+        <LatLon latitude="0.08789063" longitude="0.08789063" units="degrees"/>
+    </LevelZeroTileDelta>
+    <AvailableImageFormats>
+		<ImageFormat>image/jpg</ImageFormat>
+		<ImageFormat>image/dds</ImageFormat>
+	</AvailableImageFormats>
+	<ImageFormat>image/dds</ImageFormat>
+</Layer>

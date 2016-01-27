@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/dll
+END
+jogl_awt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/dll/jogl_awt.dll
+END
+gluegen-rt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/dll/gluegen-rt.dll
+END
+jogl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/dll/jogl.dll
+END
+WebView32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/dll/WebView32.dll
+END
+jogl_cg.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/dll/jogl_cg.dll
+END

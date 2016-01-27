@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/tracks
+END
+TrackPointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/tracks/TrackPointImpl.java
+END
+Track.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/tracks/Track.java
+END
+TrackSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/tracks/TrackSegment.java
+END
+TrackPointIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/tracks/TrackPointIterator.java
+END
+TrackPointIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/tracks/TrackPointIteratorImpl.java
+END
+TrackPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/tracks/TrackPoint.java
+END

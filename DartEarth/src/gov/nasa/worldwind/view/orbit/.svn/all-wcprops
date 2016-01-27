@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/orbit
+END
+FlatOrbitView.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/orbit/FlatOrbitView.java
+END
+OrbitViewPropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/orbit/OrbitViewPropertyAccessor.java
+END
+FlyToOrbitViewAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/orbit/FlyToOrbitViewAnimator.java
+END
+OrbitViewCollisionSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/orbit/OrbitViewCollisionSupport.java
+END
+OrbitViewMoveToZoomAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/orbit/OrbitViewMoveToZoomAnimator.java
+END
+OrbitViewCenterAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/orbit/OrbitViewCenterAnimator.java
+END
+OrbitViewInputSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/orbit/OrbitViewInputSupport.java
+END
+OrbitViewInputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/orbit/OrbitViewInputHandler.java
+END
+OrbitView.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/orbit/OrbitView.java
+END
+BasicOrbitView.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/orbit/BasicOrbitView.java
+END
+OrbitViewLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/orbit/OrbitViewLimits.java
+END
+BasicOrbitViewLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/orbit/BasicOrbitViewLimits.java
+END

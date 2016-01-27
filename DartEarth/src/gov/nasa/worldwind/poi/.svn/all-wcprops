@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/poi
+END
+POIUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/poi/POIUtils.java
+END
+Gazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/poi/Gazetteer.java
+END
+YahooGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/poi/YahooGazetteer.java
+END
+PointOfInterest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/poi/PointOfInterest.java
+END
+BasicPointOfInterest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/poi/BasicPointOfInterest.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wfs
+END
+WFSParserContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wfs/WFSParserContext.java
+END
+WFSMetadataURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wfs/WFSMetadataURL.java
+END
+WFSExtendedDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wfs/WFSExtendedDescription.java
+END
+WFSValueListParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wfs/WFSValueListParser.java
+END
+WFSFeatureTypeListParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wfs/WFSFeatureTypeListParser.java
+END
+WFSCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wfs/WFSCapabilities.java
+END
+WFSElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wfs/WFSElement.java
+END
+WFSValueParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wfs/WFSValueParser.java
+END
+WFSConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wfs/WFSConstants.java
+END
+WFSOutputFormats.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wfs/WFSOutputFormats.java
+END
+WFSFeatureType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/wfs/WFSFeatureType.java
+END

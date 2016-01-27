@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwind/ogc
+END
+OGCServiceInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/OGCServiceInformation.java
+END
+OGCCapabilityInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/OGCCapabilityInformation.java
+END
+OGCDCType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/OGCDCType.java
+END
+OGCCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/OGCCapabilities.java
+END
+OGCConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/OGCConstants.java
+END
+OGCOnlineResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/OGCOnlineResource.java
+END
+OGCRequestDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/OGCRequestDescription.java
+END
+OGCBoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/OGCBoundingBox.java
+END
+OGCContactInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/OGCContactInformation.java
+END
+OGCAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/OGCAddress.java
+END

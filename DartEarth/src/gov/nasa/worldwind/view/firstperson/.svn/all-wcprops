@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/firstperson
+END
+FlyViewInputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/firstperson/FlyViewInputHandler.java
+END
+BasicFlyView.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/firstperson/BasicFlyView.java
+END
+FlyViewLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/firstperson/FlyViewLimits.java
+END
+FlyToFlyViewAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/firstperson/FlyToFlyViewAnimator.java
+END

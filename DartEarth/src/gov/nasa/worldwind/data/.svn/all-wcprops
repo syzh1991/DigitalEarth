@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DartEarth/!svn/ver/17/trunk/DartEarth/src/gov/nasa/worldwind/data
+END
+GeotiffRasterWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/GeotiffRasterWriter.java
+END
+DataRasterReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/DataRasterReaderFactory.java
+END
+BufferedImageRaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/BufferedImageRaster.java
+END
+GDALMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/GDALMetadata.java
+END
+TiledElevationProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/TiledElevationProducer.java
+END
+DataRasterReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/DataRasterReader.java
+END
+DDSRasterReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/DDSRasterReader.java
+END
+ImageIORasterReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/84/trunk/DartEarth/src/gov/nasa/worldwind/data/ImageIORasterReader.java
+END
+DataRasterWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/DataRasterWriter.java
+END
+DDSRasterWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/DDSRasterWriter.java
+END
+ImageIORasterWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/ImageIORasterWriter.java
+END
+BasicRasterServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/BasicRasterServer.java
+END
+DataStoreProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/DataStoreProducer.java
+END
+DataRaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/DataRaster.java
+END
+AbstractDataRasterReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/AbstractDataRasterReader.java
+END
+MipMappedBufferedImageRaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/MipMappedBufferedImageRaster.java
+END
+GDALDataRasterReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/GDALDataRasterReader.java
+END
+BasicDataRasterReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/BasicDataRasterReaderFactory.java
+END
+GDAL.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/GDAL.java
+END
+TiledImageProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/TiledImageProducer.java
+END
+BILRasterReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/BILRasterReader.java
+END
+AbstractDataRasterWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/AbstractDataRasterWriter.java
+END
+WWDotNetLayerSetConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/WWDotNetLayerSetConverter.java
+END
+ByteBufferRaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/ByteBufferRaster.java
+END
+AbstractDataRaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/AbstractDataRaster.java
+END
+AbstractDataStoreProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/AbstractDataStoreProducer.java
+END
+GDALDataRaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/GDALDataRaster.java
+END
+CachedDataRaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/CachedDataRaster.java
+END
+DTEDRasterReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/DTEDRasterReader.java
+END
+BILRasterWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/BILRasterWriter.java
+END
+TiledRasterProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/TiledRasterProducer.java
+END
+GeotiffRasterReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/GeotiffRasterReader.java
+END
+RasterServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/RasterServer.java
+END
+BufferWrapperRaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/BufferWrapperRaster.java
+END
+RPFRasterReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/data/RPFRasterReader.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwind/view
+END
+ViewPropertyLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/ViewPropertyLimits.java
+END
+ViewPropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/ViewPropertyAccessor.java
+END
+BasicViewPropertyLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/BasicViewPropertyLimits.java
+END
+ViewUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/ViewUtil.java
+END
+BasicView.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/BasicView.java
+END
+ViewElevationAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/view/ViewElevationAnimator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwind/view/package.html
+END

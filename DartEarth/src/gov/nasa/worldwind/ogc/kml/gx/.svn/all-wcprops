@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/gx
+END
+GXParserContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/gx/GXParserContext.java
+END
+GXPlaylist.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/gx/GXPlaylist.java
+END
+GXWait.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/gx/GXWait.java
+END
+GXAnimatedUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/gx/GXAnimatedUpdate.java
+END
+GXSoundCue.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/gx/GXSoundCue.java
+END
+GXAbstractTourPrimitive.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/gx/GXAbstractTourPrimitive.java
+END
+GXTour.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/gx/GXTour.java
+END
+GXTourControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/gx/GXTourControl.java
+END
+GXLatLongQuad.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/gx/GXLatLongQuad.java
+END
+GXConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/gx/GXConstants.java
+END
+GXFlyTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/gx/GXFlyTo.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/gx/package.html
+END

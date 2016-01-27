@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml
+END
+KMLListStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLListStyle.java
+END
+KMLSimpleField.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLSimpleField.java
+END
+KMLVec2.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLVec2.java
+END
+KMLSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLSchema.java
+END
+KMLTimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLTimeStamp.java
+END
+KMLBalloonStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLBalloonStyle.java
+END
+KMLNetworkLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLNetworkLink.java
+END
+KMLNetworkLinkControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLNetworkLinkControl.java
+END
+KMLIconStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLIconStyle.java
+END
+KMLFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLFolder.java
+END
+KMLConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLConstants.java
+END
+KMLAbstractFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLAbstractFeature.java
+END
+KMLScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLScale.java
+END
+KMLPolygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLPolygon.java
+END
+KMLCoordinatesParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLCoordinatesParser.java
+END
+KMLAbstractLatLonBoxType.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLAbstractLatLonBoxType.java
+END
+KMLAbstractObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLAbstractObject.java
+END
+KMLPhotoOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLPhotoOverlay.java
+END
+KMLLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLLink.java
+END
+KMLAbstractSubStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLAbstractSubStyle.java
+END
+KMLLabelStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLLabelStyle.java
+END
+KMLModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLModel.java
+END
+KMLLatLonBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLLatLonBox.java
+END
+KMLCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLCreate.java
+END
+KMLPolyStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLPolyStyle.java
+END
+KMLAbstractOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLAbstractOverlay.java
+END
+KMLImagePyramid.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLImagePyramid.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/package.html
+END
+KMLLod.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLLod.java
+END
+KMLTimeSpan.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLTimeSpan.java
+END
+KMLScreenOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLScreenOverlay.java
+END
+KMLSnippet.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLSnippet.java
+END
+KMLSimpleData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLSimpleData.java
+END
+KMLRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLRegion.java
+END
+KMLStyleUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLStyleUrl.java
+END
+KMLBoundary.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLBoundary.java
+END
+KMLPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLPoint.java
+END
+KMLPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLPair.java
+END
+KMLAbstractView.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLAbstractView.java
+END
+KMLGroundOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLGroundOverlay.java
+END
+KMLStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLStyle.java
+END
+KMLParserContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLParserContext.java
+END
+KMLViewVolume.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLViewVolume.java
+END
+KMLDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLDelete.java
+END
+KMLLatLonAltBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLLatLonAltBox.java
+END
+KMLAbstractContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLAbstractContainer.java
+END
+KMLMultiGeometry.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLMultiGeometry.java
+END
+KMLLineStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLLineStyle.java
+END
+KMLData.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLData.java
+END
+KMLAbstractTimePrimitive.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLAbstractTimePrimitive.java
+END
+KMLLineString.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLLineString.java
+END
+KMLAbstractGeometry.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLAbstractGeometry.java
+END
+KMLAbstractEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLAbstractEventParser.java
+END
+KMLRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLRoot.java
+END
+KMLAbstractColorStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLAbstractColorStyle.java
+END
+KMLAbstractStyleSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLAbstractStyleSelector.java
+END
+KMLLookAt.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLLookAt.java
+END
+KMLAlias.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLAlias.java
+END
+KMLExtendedData.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLExtendedData.java
+END
+KMLOrientation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLOrientation.java
+END
+KMLStyleMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLStyleMap.java
+END
+KMLPlacemark.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLPlacemark.java
+END
+KMLItemIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLItemIcon.java
+END
+KMLLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLLocation.java
+END
+KMLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLDocument.java
+END
+KMLUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLUpdate.java
+END
+KMLCoordinateTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLCoordinateTokenizer.java
+END
+KMLResourceMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLResourceMap.java
+END
+KMLChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLChange.java
+END
+KMLCamera.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLCamera.java
+END
+KMLIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLIcon.java
+END
+KMLSchemaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLSchemaData.java
+END
+KMLLinearRing.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/ogc/kml/KMLLinearRing.java
+END

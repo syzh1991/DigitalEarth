@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/database
+END
+BasicDatabaseConnectionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/database/BasicDatabaseConnectionPool.java
+END
+DatabaseConnectionPoolFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/database/DatabaseConnectionPoolFactory.java
+END
+BasicDatabaseConnectionPoolFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/database/BasicDatabaseConnectionPoolFactory.java
+END
+DatabaseConnectionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/database/DatabaseConnectionPool.java
+END

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features
+END
+AbstractFeaturePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractFeaturePanel.java
+END
+AbstractApplicationFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractApplicationFeature.java
+END
+NetworkActivitySignal.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/NetworkActivitySignal.java
+END
+UTMGraticule.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/UTMGraticule.java
+END
+MeasurementDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/MeasurementDialog.java
+END
+AbstractOpenResourceFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractOpenResourceFeature.java
+END
+GazetteerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/GazetteerPanel.java
+END
+AbstractFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractFeature.java
+END
+Graticule.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/Graticule.java
+END
+AbstractOnDemandLayerFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractOnDemandLayerFeature.java
+END
+StatusPanelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/StatusPanelImpl.java
+END
+WMSPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/WMSPanel.java
+END
+WMSDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/WMSDialog.java
+END
+ImportedDataDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/ImportedDataDialog.java
+END
+Navigation.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/Navigation.java
+END
+AbstractFeatureDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractFeatureDialog.java
+END
+CoordinatesDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/CoordinatesDisplay.java
+END
+OpenFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/OpenFile.java
+END
+DataImportUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/DataImportUtil.java
+END
+FileMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/FileMenu.java
+END
+MeasurementPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/MeasurementPanel.java
+END
+Compass.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/Compass.java
+END
+AbstractElevationsFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractElevationsFeature.java
+END
+FeaturePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/FeaturePanel.java
+END
+AbstractFeatureLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractFeatureLayer.java
+END
+GraticuleLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/GraticuleLayer.java
+END
+ScaleBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/ScaleBar.java
+END
+OpenURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/OpenURL.java
+END
+Measurement.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/Measurement.java
+END
+LatLonGraticule.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/LatLonGraticule.java
+END
+YahooGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/YahooGazetteer.java
+END
+Feature.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/Feature.java
+END
+ImportedDataPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/ImportedDataPanel.java
+END
+Crosshair.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/Crosshair.java
+END

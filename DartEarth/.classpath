@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="DartEarth/dll"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/gdal.jar"/>
+	<classpathentry kind="lib" path="lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="lib/jogl.jar"/>
+	<classpathentry kind="lib" path="lib/plugin.jar"/>
+	<classpathentry kind="lib" path="lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/bonzaiengine-bindings.jar"/>
+	<classpathentry kind="lib" path="lib/bonzaiengine.jar"/>
+	<classpathentry kind="lib" path="lib/trident.jar"/>
+	<classpathentry kind="lib" path="lib/substance.jar"/>
+	<classpathentry kind="lib" path="lib/JTattoo.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-jaxrs-1.8.8.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-xc-1.8.8.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/HBaseUtil"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

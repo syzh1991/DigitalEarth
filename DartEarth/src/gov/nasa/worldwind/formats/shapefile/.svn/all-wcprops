@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/shapefile
+END
+ShapefileRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/shapefile/ShapefileRecord.java
+END
+Shapefile.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/shapefile/Shapefile.java
+END
+ShapefileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/shapefile/ShapefileUtils.java
+END
+DBaseField.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/shapefile/DBaseField.java
+END
+ShapefileRecordMultiPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/shapefile/ShapefileRecordMultiPoint.java
+END
+ShapefileRecordPolygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/shapefile/ShapefileRecordPolygon.java
+END
+ShapefileRecordPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/shapefile/ShapefileRecordPoint.java
+END
+ShapefileRecordNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/shapefile/ShapefileRecordNull.java
+END
+ShapefileRecordPolyline.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/shapefile/ShapefileRecordPolyline.java
+END
+DBaseRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/shapefile/DBaseRecord.java
+END
+DBaseFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/formats/shapefile/DBaseFile.java
+END

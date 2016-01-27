@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/config
+END
+worldwindow.worldwind.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/config/worldwindow.worldwind.xml
+END
+AppConfiguration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/config/AppConfiguration.xml
+END
+InitialLayerConfiguration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/DartEarth/!svn/ver/57/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/config/InitialLayerConfiguration.xml
+END

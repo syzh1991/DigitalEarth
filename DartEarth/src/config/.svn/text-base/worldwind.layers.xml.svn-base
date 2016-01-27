@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--$Id: worldwind.layers.xml 1 2011-07-16 23:22:47Z dcollins $ -->
+<!--This document specifies the initial layers to load in World Wind -->
+<!--This list can be overridden by specifying an alternate list in worldwind.xml, 
+	or by specifying an -->
+<!--alternate configuration document -->
+<!--See the javadoc for the Configuration class for details -->
+<LayerList>
+	<Layer className="gov.nasa.worldwind.layers.StarsLayer">
+		<!--Individual properties can be specified within Layer entries, like this: -->
+		<Property name="Name" value="Stars" />
+	</Layer>
+	<Layer className="gov.nasa.worldwind.layers.SkyGradientLayer" />
+	<Layer className="gov.nasa.worldwind.layers.Earth.BMNGOneImage">
+		<Property name="MinActiveAltitude" value="3e6" />
+	</Layer>
+	<Layer href="config/Earth/BlueMarbleMNG_2004-12.xml" actuate="onLoad" />
+	<Layer href="config/Earth/GF1_PMS2_20130808.xml" actuate="onLoad" />
+	<Layer href="config/Earth/GF2_PMS1_20141104523183.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF2_PMS1_20141104523181.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF2_PMS2_20141104523185.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF2_PMS2_20141104523184.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF2_PMS2_20141104523182.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_PMS2_20130806.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140412.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140413.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140429.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140501.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140507.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140708.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140709.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140710.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140711.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140716.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140717.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140718.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140721.xml" actuate="onRequest" />
+	<Layer href="config/Earth/ALL_ALL_20140722.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_PMS1_20140501236313.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV1_20140711272770.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140412201973.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140709271108.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140709271111.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140716278684.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140716278685.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140716278691.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140716278692.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140716278695.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140717278105.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140718278746.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140718278748.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140718278750.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140718278757.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140721281107.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV2_20140722282732.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV3_20140429214079.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV4_20140413202803.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV4_20140506238811.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV4_20140506238812.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV4_20140708270567.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV4_20140708270568.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV4_20140708270569.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV4_20140708270570.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV4_20140708270571.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV4_20140708270572.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV4_20140709271081.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV4_20140709271082.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_WFV4_20140709271083.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_PMS1_20130712121522.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_PMS1_20131121114541.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_PMS2_20130627105500.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_PMS2_20130725174670.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_PMS2_20130806174668.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_PMS2_2013081469940.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_PMS2_2013081469958.xml" actuate="onRequest" />
+	<Layer href="config/Earth/GF1_PMS2_2013081469967.xml" actuate="onRequest" />
+	<!-- <Layer href="config/Earth/LandsatI3WMSLayer.xml" actuate="onRequest" 
+		/> <Layer href="config/Earth/HJ1A_CCD2_2008-9.xml" actuate="onRequest" /> 
+		<Layer href="config/Earth/HJ1A_CCD2_2008-10.xml" actuate="onRequest" /> <Layer 
+		href="config/Earth/HJ1A_CCD2_2008-11.xml" actuate="onRequest" /> <Layer href="config/Earth/HJ1A_CCD2_2008-12.xml" 
+		actuate="onRequest" /> <Layer href="config/Earth/GF1_PMS2_2013-06-27.xml" 
+		actuate="onRequest" /> <Layer href="config/Earth/GF1_PMS1_2013-7-12.xml" 
+		actuate="onRequest" /> <Layer href="config/Earth/GF1_PMS2_2013-07-25.xml" 
+		actuate="onRequest" /> <Layer href="config/Earth/GF1_PMS2_2013-08-06.xml" 
+		actuate="onRequest" /> <Layer href="config/Earth/GF1_PMS1_2013-11-21.xml" 
+		actuate="onRequest" /> -->
+	<!-- <Layer href="config/Earth/GF1_WFV4_2014-03-14.xml" actuate="onRequest" 
+		/> <Layer href="config/Earth/GF1_WFV1_2014-03-17.xml" actuate="onRequest" 
+		/> -->
+	<!-- <Layer href="config/Earth/zxbtest.xml" actuate="onLoad"/> <Layer href="config/Earth/test20120503.xml" 
+		actuate="onLoad"/> --><!-- <Layer href="config/Earth/USDANAIPWMSImageLayer.xml" actuate="onRequest"/> 
+		<Layer href="config/Earth/USDANAIPUSGSWMSImageLayer.xml" actuate="onRequest"/> 
+		<Layer href="config/Earth/MSVirtualEarthAerialLayer.xml" actuate="onRequest"/> 
+		<Layer href="config/Earth/USGSTopoLowResLayer.xml" actuate="onRequest"/> 
+		<Layer href="config/Earth/USGSTopoMedResLayer.xml" actuate="onRequest"/> 
+		<Layer href="config/Earth/USGSTopoHighResLayer.xml" actuate="onRequest"/> 
+		<Layer href="config/Earth/USGSUrbanAreaOrthoLayer.xml" actuate="onRequest"/> -->
+	<Layer className="gov.nasa.worldwind.layers.Earth.CountryBoundariesLayer"
+		actuate="onRequest" />
+	<Layer className="gov.nasa.worldwind.layers.Earth.NASAWFSPlaceNameLayer"
+		actuate="onRequest" />
+	<Layer className="gov.nasa.worldwind.layers.WorldMapLayer" />
+	<Layer className="gov.nasa.worldwind.layers.ScalebarLayer" />
+	<Layer className="gov.nasa.worldwind.layers.CompassLayer" />
+</LayerList>

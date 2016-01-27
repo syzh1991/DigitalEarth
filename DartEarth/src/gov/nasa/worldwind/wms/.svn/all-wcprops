@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DartEarth/!svn/ver/11/trunk/DartEarth/src/gov/nasa/worldwind/wms
+END
+CapabilitiesRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/wms/CapabilitiesRequest.java
+END
+CapabilitiesV111.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/wms/CapabilitiesV111.java
+END
+CapabilitiesV130.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/wms/CapabilitiesV130.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/wms/Request.java
+END
+WMSNamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/wms/WMSNamespaceContext.java
+END
+WMSTiledImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/wms/WMSTiledImageLayer.java
+END
+Capabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/11/trunk/DartEarth/src/gov/nasa/worldwind/wms/Capabilities.java
+END
+BoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/wms/BoundingBox.java
+END

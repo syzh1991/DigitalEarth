@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/glider
+END
+GliderImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/glider/GliderImageLayer.java
+END
+GliderWorldWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/glider/GliderWorldWindow.java
+END
+GliderTestApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/glider/GliderTestApp.java
+END
+GliderImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/glider/GliderImage.java
+END
+GliderRegionOfInterest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/glider/GliderRegionOfInterest.java
+END

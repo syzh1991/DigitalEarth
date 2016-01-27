@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain
+END
+WMSBasicElevationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/WMSBasicElevationModel.java
+END
+Tessellator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/Tessellator.java
+END
+BasicElevationModelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/BasicElevationModelFactory.java
+END
+Terrain.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/Terrain.java
+END
+BasicElevationModelBulkDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/BasicElevationModelBulkDownloader.java
+END
+ZeroElevationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/ZeroElevationModel.java
+END
+SectorGeometryList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/SectorGeometryList.java
+END
+BasicElevationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/BasicElevationModel.java
+END
+SectorGeometry.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/SectorGeometry.java
+END
+CompoundElevationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/CompoundElevationModel.java
+END
+LocalElevationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/LocalElevationModel.java
+END
+BathymetryFilterElevationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/BathymetryFilterElevationModel.java
+END
+HighResolutionTerrain.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/HighResolutionTerrain.java
+END
+RectangularTessellator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/RectangularTessellator.java
+END
+LocalRasterServerElevationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/LocalRasterServerElevationModel.java
+END
+AbstractElevationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/terrain/AbstractElevationModel.java
+END

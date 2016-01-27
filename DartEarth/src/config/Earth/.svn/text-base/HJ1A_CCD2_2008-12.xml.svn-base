@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layer layerType="TiledImageLayer" version="1">
+	<DisplayName>HJ1A_CCD2_2008-12</DisplayName>
+	<DatasetName>HJ1A_CCD2_2008-12</DatasetName>
+	<DataCacheName>Earth/HJ1A_CCD2_2008-12</DataCacheName>
+	<Service serviceName="OGC:WMS" version="1.3">
+		<LayerNames>HJ1A_CCD2_2008-12</LayerNames>
+		<GetMapURL>http://192.168.0.193:8000/wms</GetMapURL>
+		<GetCapabilitiesURL>http://192.168.0.193:8000/wms</GetCapabilitiesURL>
+	</Service>
+	<FormatSuffix>.png</FormatSuffix>
+	<NumLevels count="5" numEmpty="0" />
+	<Sector>
+		<SouthWest>
+			<LatLon latitude="31.08050358" longitude="117.85173318" units="degrees" />
+		</SouthWest>
+		<NorthEast>
+			<LatLon latitude="34.96843855" longitude="123.29881583" units="degrees" />
+		</NorthEast>
+	</Sector>
+	<TileOrigin>
+		<LatLon latitude="-90.0" longitude="-180.0" units="degrees" />
+	</TileOrigin>
+	<TileSize>
+		<Dimension height="512" width="512" />
+	</TileSize>
+	<LevelZeroTileDelta>
+		<LatLon latitude="1.40625000" longitude="1.40625000" units="degrees" />
+	</LevelZeroTileDelta>
+	<AvailableImageFormats>
+		<ImageFormat>image/png</ImageFormat>
+		<ImageFormat>image/dds</ImageFormat>
+	</AvailableImageFormats>
+	<ImageFormat>image/dds</ImageFormat>
+</Layer>

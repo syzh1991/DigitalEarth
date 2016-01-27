@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth
+END
+UTMGraticuleLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/UTMGraticuleLayer.java
+END
+MyDataWMSLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/MyDataWMSLayer.java
+END
+NASAWFSPlaceNameLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/NASAWFSPlaceNameLayer.java
+END
+MGRSGraticuleLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/MGRSGraticuleLayer.java
+END
+LandsatI3WMSLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/LandsatI3WMSLayer.java
+END
+BMNGWMSLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/BMNGWMSLayer.java
+END
+MSVirtualEarthLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/MSVirtualEarthLayer.java
+END
+CountryBoundariesLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/CountryBoundariesLayer.java
+END
+USGSUrbanAreaOrtho.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/USGSUrbanAreaOrtho.java
+END
+USGSTopoLowRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/USGSTopoLowRes.java
+END
+USGSTopoMedRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/USGSTopoMedRes.java
+END
+ScankortDenmarkImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/ScankortDenmarkImageLayer.java
+END
+BMNGOneImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/BMNGOneImage.java
+END
+USGSDigitalOrtho.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/USGSDigitalOrtho.java
+END
+USDANAIPWMSImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/USDANAIPWMSImageLayer.java
+END
+UTMBaseGraticuleLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/UTMBaseGraticuleLayer.java
+END
+USGSTopoHighRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/Earth/USGSTopoHighRes.java
+END

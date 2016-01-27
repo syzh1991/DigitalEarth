@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/placename
+END
+PlaceNameLayerBulkDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/placename/PlaceNameLayerBulkDownloader.java
+END
+PlaceNameLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/placename/PlaceNameLayer.java
+END
+PlaceNameServiceSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/placename/PlaceNameServiceSet.java
+END
+PlaceNameService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/placename/PlaceNameService.java
+END

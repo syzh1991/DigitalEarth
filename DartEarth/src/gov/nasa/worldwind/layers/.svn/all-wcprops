@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers
+END
+LocalRasterServerLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/LocalRasterServerLayer.java
+END
+BasicTiledImageLayerBulkDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/BasicTiledImageLayerBulkDownloader.java
+END
+AbstractGraticuleLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/AbstractGraticuleLayer.java
+END
+AbstractLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/AbstractLayer.java
+END
+TiledImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/TiledImageLayer.java
+END
+CompassLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/CompassLayer.java
+END
+AnnotationLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/AnnotationLayer.java
+END
+ScalebarLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/ScalebarLayer.java
+END
+GraticuleSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/GraticuleSupport.java
+END
+TextureTile.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/TextureTile.java
+END
+MarkerLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/MarkerLayer.java
+END
+SkyGradientLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/SkyGradientLayer.java
+END
+GraticuleRenderingParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/GraticuleRenderingParams.java
+END
+WorldMapLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/WorldMapLayer.java
+END
+AirspaceLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/AirspaceLayer.java
+END
+LatLonGraticuleLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/LatLonGraticuleLayer.java
+END
+CrosshairLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/CrosshairLayer.java
+END
+ViewControlsLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/ViewControlsLayer.java
+END
+StarsConvertor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/StarsConvertor.java
+END
+RenderableLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/RenderableLayer.java
+END
+SkyColorLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/SkyColorLayer.java
+END
+BasicTiledImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/BasicTiledImageLayer.java
+END
+ViewControlsSelectListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/ViewControlsSelectListener.java
+END
+BasicLayerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/BasicLayerFactory.java
+END
+LayerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/LayerList.java
+END
+Layer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DartEarth/!svn/ver/67/trunk/DartEarth/src/gov/nasa/worldwind/layers/Layer.java
+END
+TerrainProfileLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/TerrainProfileLayer.java
+END
+IconLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/IconLayer.java
+END
+CachedRenderableLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/CachedRenderableLayer.java
+END
+SurfaceImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/SurfaceImageLayer.java
+END
+StarsLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwind/layers/StarsLayer.java
+END

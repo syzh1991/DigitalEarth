@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Layer layerType="TiledImageLayer" version="1">
+    <DisplayName>Test_Test_20140314</DisplayName>
+    <DatasetName>Test_Test_20140314</DatasetName>
+    <DataCacheName>Earth/Test_Test_20140711</DataCacheName>
+    <Service serviceName="OGC:WMS" version="1.3">
+		<LayerNames>Test_Test_20140314</LayerNames>
+		<GetMapURL>http://192.168.0.193:8000/wms</GetMapURL>
+		<GetCapabilitiesURL>http://192.168.0.193:8000/wms</GetCapabilitiesURL>
+	</Service>
+    <FormatSuffix>.jpg</FormatSuffix>
+    <NumLevels count="10" numEmpty="4"/>
+    <Sector>
+        <SouthWest>
+          <LatLon latitude="28.09133603" longitude="112.64753168" units="degrees"/>
+        </SouthWest>
+        <NorthEast>
+          <LatLon latitude="31.23101583" longitude="118.59665951" units="degrees"/>
+        </NorthEast>
+    </Sector>
+    <TileOrigin>
+        <LatLon latitude="-90.0" longitude="-180.0" units="degrees"/>
+    </TileOrigin>
+    <TileSize>
+        <Dimension height="512" width="512"/>
+    </TileSize>
+    <LevelZeroTileDelta>
+        <LatLon latitude="36.00000000" longitude="36.00000000" units="degrees"/>
+    </LevelZeroTileDelta>
+    <AvailableImageFormats>
+		<ImageFormat>image/jpg</ImageFormat>
+		<ImageFormat>image/dds</ImageFormat>
+	</AvailableImageFormats>
+	<ImageFormat>image/dds</ImageFormat>
+</Layer>
+

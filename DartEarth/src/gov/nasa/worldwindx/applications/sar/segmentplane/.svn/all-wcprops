@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/sar/segmentplane
+END
+SegmentPlane.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/sar/segmentplane/SegmentPlane.java
+END
+SegmentPlaneController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/sar/segmentplane/SegmentPlaneController.java
+END
+SegmentPlaneAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/sar/segmentplane/SegmentPlaneAttributes.java
+END
+SegmentPlaneEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/sar/segmentplane/SegmentPlaneEditor.java
+END
+SegmentPlaneRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/sar/segmentplane/SegmentPlaneRenderer.java
+END

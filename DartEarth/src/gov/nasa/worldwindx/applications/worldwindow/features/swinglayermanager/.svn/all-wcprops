@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/swinglayermanager
+END
+LayerTreeGroupNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/swinglayermanager/LayerTreeGroupNode.java
+END
+LayerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/swinglayermanager/LayerNode.java
+END
+LayerTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/swinglayermanager/LayerTreeNode.java
+END
+ControlsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/swinglayermanager/ControlsPanel.java
+END
+ControlsPanelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/swinglayermanager/ControlsPanelImpl.java
+END
+ActiveLayersList.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/swinglayermanager/ActiveLayersList.java
+END
+LayerManagerDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/swinglayermanager/LayerManagerDialog.java
+END
+LayerManagerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/swinglayermanager/LayerManagerPanel.java
+END
+ActiveLayersPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/swinglayermanager/ActiveLayersPanel.java
+END
+LayerTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/swinglayermanager/LayerTree.java
+END
+LayerTreeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/DartEarth/!svn/ver/3/trunk/DartEarth/src/gov/nasa/worldwindx/applications/worldwindow/features/swinglayermanager/LayerTreeModel.java
+END
